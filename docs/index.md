@@ -79,7 +79,7 @@ Reiniciamos Bind9:
 ## Comprobación del cliente
 Configurar el cliente para usar el servidor DNS en la red privada. Comprobar:
 
-![Comprobación con dig y nslookup](images/80.png)
+![Comprobación con dig y nslookup](images/18.png)
 
 ## Cuestiones finales
 
